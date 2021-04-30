@@ -1,0 +1,20 @@
+{
+    "MacName": “MacBook Pro (13” Inch, Mid 2010)”,
+    "Author": “@FredRaylander”,
+    "Details": “Things work, but, you are warned to stay in Calatina using DosDUDE1’s Patch. Not worth the time.”,
+    "Works": [
+        “Wifi”,
+        “Bluetooth”
+        “Keyboard Backlight”
+        “iSight Camera”
+        “Audio”
+        “Screen Resolution”
+        “Everything Else”
+    ],
+    "Unknown": [
+       “FileVault”
+    ],
+    "Warns": [
+         “Graphics Acceleration”
+    ]
+}
